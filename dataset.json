@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Portland, Oregon, US",
-  "export_job_id": "92cad805-ff64-43ed-8bd2-28a3683804c0",
+  "export_job_id": "6893afcd-fc95-4215-8a3d-245888d605d3",
   "github_org": "Beamstation-Datasets",
   "id_short": 133333,
   "location_name": "Portland",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-portland-oregon-us-sample-133333",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/133333/beamstation_133333_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_pct": 6.67,
+  "sample_pct": 6.25,
   "sample_records": 1,
-  "sample_sha256": "000015d05bfb79e863696eb3ed5f53b3207e241ef36e5f728b73babaddc2f5e7",
-  "sample_size_bytes": 20183,
-  "total_records": 15,
-  "updated_at": "2026-04-14T22:04:40.877479+00:00"
+  "sample_sha256": "54bd6263180a8e3d76d0dbf889727350a05aa92c1e10d17c3cf7c97ae3413d29",
+  "sample_size_bytes": 20633,
+  "total_records": 16,
+  "updated_at": "2026-04-22T00:57:24.559371+00:00"
 }
