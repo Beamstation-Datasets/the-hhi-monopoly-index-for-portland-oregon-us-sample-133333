@@ -1,12 +1,12 @@
 {
-  "export_job_id": "92cad805-ff64-43ed-8bd2-28a3683804c0",
+  "export_job_id": "6893afcd-fc95-4215-8a3d-245888d605d3",
   "id_short": 133333,
-  "published_at": "2026-04-18T07:25:49Z",
+  "published_at": "2026-04-22T07:06:49Z",
   "repo_name": "the-hhi-monopoly-index-for-portland-oregon-us-sample-133333",
   "sample_asset_name": "beamstation_133333_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/133333/beamstation_133333_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "000015d05bfb79e863696eb3ed5f53b3207e241ef36e5f728b73babaddc2f5e7",
-  "sample_size_bytes": 20183,
-  "total_records": 15
+  "sample_sha256": "54bd6263180a8e3d76d0dbf889727350a05aa92c1e10d17c3cf7c97ae3413d29",
+  "sample_size_bytes": 20633,
+  "total_records": 16
 }
